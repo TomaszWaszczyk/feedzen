@@ -12,7 +12,10 @@ const NostrLogin = () => {
     };
 
     try {
-        const publicKey = window.nostr.getPublicKey();
+        const publicKey = window.nostr?.getPublicKey();
+        if (!publicKey) {
+            throw new Error('Failed to retrieve public key');
+        }
         setPubKey(publicKey);
         setError(null);
     } catch (err) {
