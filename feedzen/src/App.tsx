@@ -3,6 +3,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 import NostrLogin from './components/NostrLogin'
+import NostrFeed from './components/NostrFeed'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -11,6 +12,7 @@ function App() {
     <>
       <div>
         <NostrLogin></NostrLogin>
+        <NostrFeed></NostrFeed>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
