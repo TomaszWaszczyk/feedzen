@@ -6,6 +6,6 @@ Feedzen represents **a shift—a space** where content is not dictated by opaque
 
 When you’re not at the mercy of unpredictable feeds and attention traps, you gain back **control**. You decide what you want to see, when you want to see it, and from whom. This conscious consumption allows your mind to rest, reflect, and zen.
 
-Freedom from algorithms means freedom to think and mind zen. It opens the door to deeper creativity, presence, and peace—the core of a Zen mindset. No more chasing the next dopamine hit. No more algorithmic anxiety. Just signal over noise.
+Freedom from algorithms means freedom to think and mind zen. It opens the door to deeper creativity, presence, and peace—the core of a Zen mindset. No more chasing the next dopamine hit. We truly value community-driven discovery, instead of “what the algorithm thinks you want,” users can follow real humans or curated feeds. No more algorithmic anxiety. Just signal over noise.
 
 In a world full of digital chaos, Feedzen is your quiet corner of the internet. One where you can simply be.
