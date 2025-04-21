@@ -10,7 +10,7 @@ const NostrLogin = () => {
             return;
         }
     };
-    
+
     return (
         <div>
             <h2>Login with Nostr</h2>
