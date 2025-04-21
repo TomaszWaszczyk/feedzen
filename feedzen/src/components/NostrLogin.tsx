@@ -11,6 +11,14 @@ const NostrLogin = () => {
         }
     };
 
+    try {
+        const publicKey = window.nostr.getPublicKey();
+        setPubKey(publicKey);
+        setError(null);
+    } catch (err) {
+        setError('Failed to get public key' + (err as Error).message);
+    }
+
     return (
         <div>
             <h2>Login with Nostr</h2>
