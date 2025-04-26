@@ -2,8 +2,8 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
-import NostrLogin from './components/NostrLogin'
-import NostrFeed from './components/NostrFeed'
+import NostrLogin from './components/feed/NostrLogin'
+import NostrFeed from './components/feed/NostrFeed'
 
 function App() {
   const [count, setCount] = useState(0)
