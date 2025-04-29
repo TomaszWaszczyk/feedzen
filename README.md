@@ -9,3 +9,7 @@ When you’re not at the mercy of unpredictable feeds and attention traps, you g
 Freedom from algorithms means freedom to think and mind zen. It opens the door to deeper creativity, presence, and peace—the core of a Zen mindset. No more chasing the next dopamine hit. We truly value community-driven discovery, instead of “what the algorithm thinks you want,” users can follow real humans or curated feeds. No more algorithmic anxiety. Just signal over noise.
 
 In a world full of digital chaos, Feedzen is your quiet corner of the internet. One where you can simply be.
+
+---
+
+https://medium.com/%40brysontang/creating-a-nostr-client-in-typescript-a0ce023a0bfc
