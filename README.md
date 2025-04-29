@@ -13,3 +13,5 @@ In a world full of digital chaos, Feedzen is your quiet corner of the internet. 
 ---
 
 https://medium.com/%40brysontang/creating-a-nostr-client-in-typescript-a0ce023a0bfc
+
+https://hellonostr.dev/en/clients/master-hello-nostr/
