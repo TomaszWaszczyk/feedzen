@@ -18,14 +18,17 @@ const EthereumAuth = () => {
       return;
     }
 
-    return (
-        <div>
-            <h2>Login with Ethereum</h2>
-            {error && <p style={{ color: "red" }}>{error}</p>}
-            <button onClick={loginWithEthereum}>Login</button>
-            {address && <p>Address: {address}</p>}
-        </div>
-    );
+
   }
+
+  return (
+    <div>
+        <h2>Login with Ethereum</h2>
+        {error && <p style={{ color: "red" }}>{error}</p>}
+        <button onClick={loginWithEthereum}>Login</button>
+        {address && <p>Address: {address}</p>}
+    </div>
+);
 }
 
+export default EthereumAuth;

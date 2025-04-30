@@ -4,6 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import NostrLogin from './components/feed/NostrLogin'
 import NostrFeed from './components/feed/NostrFeed'
+import EthereumAuth from './components/auth/EthereumAuth'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -12,6 +13,7 @@ function App() {
     <>
       <div>
         <NostrLogin></NostrLogin>
+        <EthereumAuth></EthereumAuth>
         <NostrFeed></NostrFeed>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
