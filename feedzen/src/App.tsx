@@ -5,6 +5,7 @@ import './App.css'
 import NostrLogin from './components/feed/NostrLogin'
 import NostrFeed from './components/feed/NostrFeed'
 import EthereumAuth from './components/auth/EthereumAuth'
+import Header from './components/layout/Header'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -12,6 +13,7 @@ function App() {
   return (
     <>
       <div>
+        <Header></Header>
         <NostrLogin></NostrLogin>
         <EthereumAuth></EthereumAuth>
         <NostrFeed></NostrFeed>
