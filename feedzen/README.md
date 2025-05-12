@@ -52,3 +52,5 @@ export default tseslint.config({
   },
 })
 ```
+
+https://github.com/nbd-wtf/nostr-tools/issues/399
