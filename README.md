@@ -16,6 +16,8 @@ https://medium.com/%40brysontang/creating-a-nostr-client-in-typescript-a0ce023a0
 
 https://hellonostr.dev/en/clients/master-hello-nostr/
 
+https://github.com/nostr-dev-kit/ndk
+
 
 <!--
     "The Cyber Effect" by Mary Aiken
